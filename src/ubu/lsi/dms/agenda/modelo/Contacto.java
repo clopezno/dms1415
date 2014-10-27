@@ -3,8 +3,8 @@ package ubu.lsi.dms.agenda.modelo;
 import java.io.Serializable;
 
 /**
- * 
- * @author clopezno
+ * Clase de entidad con la información de Contactos
+ * @author Carlos López
  *
  */
 @SuppressWarnings("serial")

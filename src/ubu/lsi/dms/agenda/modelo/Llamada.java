@@ -1,7 +1,11 @@
 package ubu.lsi.dms.agenda.modelo;
 
 import java.io.Serializable;
-
+/**
+ * Clase de entidad con la información de Llamada
+ * @author Carlos López
+ *
+ */
 @SuppressWarnings("serial")
 public class Llamada implements Serializable{
 	

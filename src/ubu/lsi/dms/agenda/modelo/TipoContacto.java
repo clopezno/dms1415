@@ -2,6 +2,11 @@ package ubu.lsi.dms.agenda.modelo;
 
 import java.io.Serializable;
 
+/**
+ * Clase de entidad con la información de TipodeContacto
+ * @author Carlos López
+ *
+ */
 @SuppressWarnings("serial")
 public class TipoContacto implements Serializable{
 	private int idTipoContacto;
